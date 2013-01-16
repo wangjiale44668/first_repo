@@ -1,0 +1,60 @@
+/* ----------------body部分-------------------*/
+
+body{ 
+    width:90%;
+	min-width:1041px;
+	background-color:#FFFF99;
+}
+/* --------------头部---------------------*/
+#top{
+    height:100px;
+	margin-bottom:10px;
+	border-bottom:1px solid #333333;
+	text-align:center;
+	background-color:#00FF00;
+}
+/* ---------------左栏--------------------*/
+#left{
+     float:left;
+	 width:150px;
+	 height:470px;
+	 background-color:#00FFFF;
+	 border-right:1px solid #333333;
+	 margin-left:10px; 
+}
+/* ---------------右栏--------------------*/
+#right{    
+     background-color:#FFFF00;
+	 margin-left:10px;
+	 height:470px;
+	 border-right:1px solid #333333;
+  
+	 
+}
+/* -------------图片的设置----------------------*/
+
+#bigger{
+  width:800px;
+  float:right;
+  margin-right:50px;
+}
+
+.small{
+  width:155px;
+  float:left;
+  margin-top:20px;
+}
+/* --------------底部---------------------*/
+#bottom{
+    height:100px;
+	margin-top:10px;
+	border-top:1px solid #333333;
+	background-color:#00FF00;
+	text-align:center;
+}
+
+/* --------------字体的设置---------------------*/
+*{
+ font-family:"宋体";
+ font-size:16px;
+}
